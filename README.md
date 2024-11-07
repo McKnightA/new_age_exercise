@@ -1,7 +1,7 @@
 # new_age_exercise
 
 todo:
-add more exercises
+add more exercises\n
 make routines a thing
 
 app opens to list of routines (maybe personal/community favorites)
