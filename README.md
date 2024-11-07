@@ -1,11 +1,10 @@
 # new_age_exercise
 
 todo:
-- add more exercises
+- add more reference exercises
 - make routines a thing
 
-
-
+idea:
 - app opens to list of routines (maybe personal/community favorites)
 - select one and it opens to a list of exercises with sets and reps or durations for each
 - select an exercise and it shows an animation of the reference exercise in 3d form
