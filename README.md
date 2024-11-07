@@ -1,8 +1,8 @@
 # new_age_exercise
 
 todo:
-add more exercises\n
-make routines a thing
+- add more exercises
+- make routines a thing
 
 app opens to list of routines (maybe personal/community favorites)
 select one and it opens to a list of exercises with sets and reps or durations for each
